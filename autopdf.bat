@@ -53,7 +53,6 @@ goto :main
 			
 			set "file=C:\AutoPDF\PDFCycle1.txt"
 			
-			::cd C:\Reports
 			echo %%a>> C:\AutoPDF\PDFCycle1.txt
 			
 			TIMEOUT /T 2
