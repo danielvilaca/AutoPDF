@@ -14,7 +14,7 @@ Automatic Conversion Bash Program from PDF to New Version PDF File
 
 Nota:
 Este programa em Bash serve para que numa pasta partilhada na rede que receba PDF's com versões desatualizadas 
-do Adobe Acrobat ou com ficheiros imcompativeis, gere novos PDF's através do "PDFCreator", ferramente gratuita 
+do Adobe Acrobat ou com ficheiros incompativeis, gere novos PDF's através do "PDFCreator", ferramente gratuita 
 de conversão de PDF's para PDF's, entre outros tipos de ficheiros.
 
 IMPORTANTE: O Programa irá estar a correr, caso pretenda colocar como serviço é totalmente compreensível e 
