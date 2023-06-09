@@ -1,6 +1,4 @@
-# AutoPDF
-Automatic Conversion Bash Program from PDF to New Version PDF File
-
+# <p align="center">AutoPDF</p>
 --------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> AutoPDF - Auto Conversion Bash Program from PDF to New Version PDF File</p>   
