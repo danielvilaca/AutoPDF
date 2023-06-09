@@ -9,7 +9,7 @@ Automatic Conversion Bash Program from PDF to New Version PDF File
 
 --------------------------------------------------------------------------------------------------------------------
 
-.:Português:.
+<h2>Português</h2>
 
 
 Nota:
@@ -52,7 +52,7 @@ dispendioso em termos de tempo gasto.
 
 --------------------------------------------------------------------------------------------------------------------
 
-.:English:.
+<h2>English</h2>
 
 
 Note:
