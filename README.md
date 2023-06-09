@@ -3,9 +3,9 @@ Automatic Conversion Bash Program from PDF to New Version PDF File
 
 --------------------------------------------------------------------------------------------------------------------
 
-		      AutoPDF - Auto Conversion Bash Program from PDF to New Version PDF File   
-				        Versão Portuguesa & English Version	
-					      (Made by Daniel Vilaça)			      
+<p align="center"> AutoPDF - Auto Conversion Bash Program from PDF to New Version PDF File</p>   
+<p align="center">Versão Portuguesa & English Version</p>	
+<p align="center">(Made by Daniel Vilaça)</p>			      
 
 --------------------------------------------------------------------------------------------------------------------
 
