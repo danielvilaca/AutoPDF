@@ -1,7 +1,7 @@
 # <p align="center">AutoPDF</p>
 --------------------------------------------------------------------------------------------------------------------
 
-<p align="center"> AutoPDF - Auto Conversion Bash Program from PDF to New Version PDF File</p>   
+<p align="center"> AutoPDF - Auto Conversion Batch Program from PDF to New Version PDF File</p>   
 <p align="center">Versão Portuguesa & English Version</p>	
 <p align="center">(Made by Daniel Vilaça)</p>			      
 
@@ -11,7 +11,7 @@
 
 
 Nota:
-Este programa em Bash serve para que numa pasta partilhada na rede que receba PDF's com versões desatualizadas 
+Este programa em Batch serve para que numa pasta partilhada na rede que receba PDF's com versões desatualizadas 
 do Adobe Acrobat ou com ficheiros incompativeis, gere novos PDF's através do "PDFCreator", ferramente gratuita 
 de conversão de PDF's para PDF's, entre outros tipos de ficheiros.
 
@@ -54,7 +54,7 @@ dispendioso em termos de tempo gasto.
 
 
 Note:
-This Bash program serves to generate new PDFs through "PDFCreator," a free tool for converting PDFs to PDFs and 
+This Batch program serves to generate new PDFs through "PDFCreator," a free tool for converting PDFs to PDFs and 
 other file types, in a shared folder on the network that receives outdated versions of Adobe Acrobat or 
 incompatible files.
 
