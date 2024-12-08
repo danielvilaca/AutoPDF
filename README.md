@@ -1,11 +1,11 @@
 # <p align="center">AutoPDF</p>
---------------------------------------------------------------------------------------------------------------------
+---
 
 <p align="center"> AutoPDF - Auto Conversion Batch Program from PDF to New Version PDF File</p>   
 <p align="center">Versão Portuguesa & English Version</p>	
 <p align="center">(Made by Daniel Vilaça)</p>			      
 
---------------------------------------------------------------------------------------------------------------------
+---
 
 <h2>Português</h2>
 
@@ -48,7 +48,7 @@ novo PDF. Caso não exista, é gerado um novo.
 o pdf criado após cerca de uns 45 segundos, e no caso de ser necessário gerar diversos PDF's, seria bastante 
 dispendioso em termos de tempo gasto.
 
---------------------------------------------------------------------------------------------------------------------
+---
 
 <h2>English</h2>
 
